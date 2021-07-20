@@ -31,7 +31,6 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="ToDo List" id="Z9g-pc-7PX">
-                        <barButtonItem key="leftBarButtonItem" title="Item" id="7n5-zu-VwA"/>
                         <barButtonItem key="rightBarButtonItem" title="+" id="bLY-pg-mLs"/>
                     </navigationItem>
                 </tableViewController>
